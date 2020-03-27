@@ -1,0 +1,19 @@
+{
+  "name": "publishnpmpackages",
+  "version": "1.0.1",
+  "description": "teach you how to publish a npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasonting5/publishNpmPackage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasonting5/publishNpmPackage/issues"
+  },
+  "homepage": "https://github.com/jasonting5/publishNpmPackage#readme"
+}
